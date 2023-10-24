@@ -27,7 +27,7 @@ const Page: React.FC<Props> = ({ children }) => {
             <Stack alignItems="center" direction="row" gap={6} padding={12}>
               <Image alt="ACME stores" height={32} src="/acme.svg" width={32} />
               <Text color="white" size={16} weight="bold">
-                ACME Stores
+                Stiffers Store
               </Text>
             </Stack>
           </Link>
